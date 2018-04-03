@@ -1,0 +1,49 @@
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\Content\Witch_Idle01.xnb
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\GameGameHaa2.exe
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\GameGameHaa2.pdb
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\obj\x86\Debug\GameGameHaa2.csprojResolveAssemblyReference.cache
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\obj\x86\Debug\GameGameHaa2.exe
+c:\users\pipa&make\documents\visual studio 2015\Projects\GameGameHaa2\GameGameHaa2\obj\x86\Debug\GameGameHaa2.pdb
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\obj\x86\Debug\GameGameHaa2.exe
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\obj\x86\Debug\GameGameHaa2.pdb
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\Content\Witch_Idle01.xnb
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\GameGameHaa2.exe
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\GameGameHaa2.pdb
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\obj\x86\Debug\GameGameHaa2.csprojResolveAssemblyReference.cache
+C:\Users\Pipa&Make\Documents\Eero\MonoGame\GameGameHaa2\GameGameHaa2\bin\Windows\x86\Debug\Content\Tile_Floor.xnb
